@@ -1,4 +1,4 @@
-commit creatvo
+commit creatvo 
  Relevancia tecnológica actual
 Vivimos en una era completamente digitalizada donde la programación es fundamental en prácticamente todos los aspectos de la vida cotidiana, desde aplicaciones móviles hasta sistemas bancarios y de comunicación.
 Perspectiva histórica valiosa
