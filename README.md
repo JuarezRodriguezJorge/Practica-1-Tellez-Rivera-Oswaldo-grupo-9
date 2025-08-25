@@ -1,7 +1,3 @@
-commit creatvo 
- Relevancia tecnológica actual
-Vivimos en una era completamente digitalizada donde la programación es fundamental en prácticamente todos los aspectos de la vida cotidiana, desde aplicaciones móviles hasta sistemas bancarios y de comunicación.
-Perspectiva histórica valiosa
-El tema permite comprender cómo hemos llegado al estado actual de la tecnología, trazando una línea evolutiva desde las primeras máquinas programables del siglo XV hasta los lenguajes modernos como Python, Java y Go.
- Impacto multisectorial
-Los lenguajes de programación han transformado múltiples sectores: educación, salud, transporte, comunicaciones, entretenimiento y comercio, lo que hace el tema amplio y significativo
+commit creatvo: Elabore un resumen sobre el texto de la evolucion de los sistemas de lengujae de programacion a lo largo de la historia lo cual
+es muiy imporatnte para poder entender lo que queremos estudiar, busque el tema en el navgador de google, ya escojido empece analizarlo para resumirlo, despues explique porque lo elegi,
+al final subi una foto de algo que me representara y ese fue lo que realize 
