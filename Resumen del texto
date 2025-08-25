@@ -1,0 +1,18 @@
+Evolución de los Sistemas de Lenguaje de Programación: Análisis y Reflexiones El desarrollo tecnológico ha transformado radicalmente nuestra sociedad,
+siendo la programación informática un pilar fundamental en esta evolución. Según Galarza y Carriel (2022), los lenguajes de programación han evolucionado
+constantemente para adaptarse a las necesidades cambiantes de la humanidad, actuando como puente entre el pseudocódigo legible por humanos y las instrucciones
+procesables por máquinas. La programación consiste en un proceso sistemático de seis fases: definición del problema, análisis, diseño del algoritmo, codificación
+, implementación y mantenimiento. Los lenguajes se dividen en dos categorías principales: los de bajo nivel, más cercanos al hardware y específicos para
+cada equipo (código binario, lenguaje máquina y ensamblador), y los de alto nivel, que utilizan palabras del lenguaje humano facilitando la comprensión,
+aunque son más propensos a errores sintácticos. Históricamente, aunque los antecedentes se remontan al siglo XV con Leibniz, el concepto moderno surge en 1801
+con el telar programable de Jacquard. La programación como la conocemos inició en los años 50 con FORTRAN (1957), evolucionando a través de COBOL, BASIC, Pascal,
+C y C++. La década de los 90 marcó un punto de inflexión con lenguajes orientados a web como Python, Java, JavaScript y PHP. A partir del 2000, con la masificación
+del internet, surgieron lenguajes como C# y GO, enfocados en aplicaciones web y servicios en la nube. Esta evolución ha sido determinante en múltiples sectores:
+las comunicaciones han eliminado barreras geográficas, el transporte se ha revolucionado con sistemas GPS, y el ámbito empresarial ha mejorado su competitividad global. 
+Es evidente que estos lenguajes continúan evolucionando paralelamente a las necesidades humanas, no solo simplificando tareas cotidianas, sino redefiniendo completamente
+nuestra interacción con la tecnología. Como estudiante de ingeniería, considero fascinante observar cómo hemos pasado de tarjetas perforadas a lenguajes sofisticados que
+prácticamente "entienden" nuestras intenciones. Con el auge de la inteligencia artificial y el quantum computing, seguramente veremos nuevos paradigmas que hoy ni siquiera
+podemos imaginar. Lo fundamental es comprender que cada lenguaje surgió para resolver problemas específicos de su época, y esa adaptabilidad es lo que ha permitido
+el desarrollo exponencial que vivimos. Como futuros ingenieros, debemos no solo aprender a programar, sino comprender esta evolución histórica para anticipar hacia
+dónde se dirigen estas tecnologías y cómo podemos contribuir a su desarrollo.
+
